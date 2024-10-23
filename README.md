@@ -1,5 +1,5 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: Sai Praneeth K            </h3>
+<h3>Name: Sai Praneeth K           </h3>
 <h3>Register Number: 212222230067     </h3>
 <H3>Aim:</H3>
 <p>
@@ -109,8 +109,8 @@ else:
 ```
 
 <h2>Sample Input and Output:</h2>
-![Op1-ai8](https://github.com/user-attachments/assets/8e0ef9a5-2db7-40e8-996c-409111a0ab76)
 
+![Op1-ai8](https://github.com/user-attachments/assets/366bcd0f-b919-45e5-bd32-6db0a984cf2f)
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
